@@ -2,6 +2,7 @@
 Python OpenCV and box-counting (Minkowski–Bouligand) method for calculating the fractal dimension of an object in the image. 
 
 fractal_dim_final - contains just the functions to determine the fractal dimensions of an object in the image 
+
 helpscripts - additional scripts I used, described below 
 
 
