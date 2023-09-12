@@ -3,7 +3,7 @@ Python OpenCV and box-counting (Minkowski–Bouligand) method for calculating th
 
 fractal_dim_final.py - contains just the functions to determine the fractal dimensions of an object in the image 
 
-helpscripts.py - additional scripts I used, described below 
+helpscripts.py - additional utility scripts I used, to automate the experimental data processing  
 
 
 I wrote this program when doing research on viscous fingering, so this repository also includes some code to detect the radius of the circular object (the fractal I was investigating in my case), and to apply these functions to a video by splitting it into frames. It may include a DLA (Diffusion Limited Aggregation) simulation sometime later.  
